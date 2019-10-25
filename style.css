@@ -1,0 +1,9 @@
+body {
+    height: 100%;
+}
+#ctx {
+    position: absolute;
+    left: calc(50% - 250px);
+    top: calc(50% - 250px);
+    box-shadow: 1px 1px 4px grey;
+}
