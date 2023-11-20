@@ -1,5 +1,5 @@
 # grouping
 
-Vizualizácia metódy strojového učenia zoskupovania (clustering).
+Visualizing machine learning clustering method.
 
 - [demo](https://igincan.github.io/grouping/)
